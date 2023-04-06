@@ -1,5 +1,7 @@
 # Prometheus Installation Script for Ubuntu 16.04 and 18.04 LTS
 
+**Raven's Note**: This script is a fork of the original repository in order to add support for newer versions of Ubuntu (22.10, 23.04, etc), along with further uninstallation scripts and customizations. 
+
 **Important:** This is a work in progress.
 
 **Even more important:** If you actually plan to use this do not forget to edit configuration files to your needs (service files, YAML configuration files, etc.). Configuration files provided here are just generic files.
